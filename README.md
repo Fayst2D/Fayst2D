@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-      <td>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fayst2D&show_icons=true&theme=radical)</td>
-      <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayst2D&layout=compact&theme=radical&hide=QMake)</td>
+      <td><img src="(https://github-readme-stats.vercel.app/api?username=Fayst2D&show_icons=true&theme=radical)"/</td>
+      <td><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayst2D&layout=compact&theme=radical&hide=QMake"/></td>
   </tr>   
 </table>
 
