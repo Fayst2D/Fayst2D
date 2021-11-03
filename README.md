@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fayst2D&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayst2D&theme=radical@hide=QMake)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayst2D&theme=radical@hide=Qmake)
