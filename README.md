@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-(https://github-readme-stats.vercel.app/api?username=Fayst2D)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fayst2D&show_icons=true&theme=radical)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Fayst2D)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayst2D)
