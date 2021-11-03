@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<table background-color=141321>
+<table style="background-color=141321">
   <tr>
       <td><img src ="https://github-readme-stats.vercel.app/api?username=Fayst2D&show_icons=true&hide_border=true&theme=radical"/</td>
       <td><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayst2D&layout=compact&hide=QMake&hide_border=true&theme=radical"/></td>
